@@ -104,19 +104,15 @@ Sensors make the conveyor intelligent and autonomous.
 
 Common Sensors:
 
-IR / Photoelectric sensors → Object detection
+a. IR / Photoelectric sensors → Object detection
 
+b. Load cells → Weight sensing
 
-Load cells → Weight sensing
+c. Encoders → Belt speed & position
 
+d. Proximity sensors → Docking alignment
 
-Encoders → Belt speed & position
-
-
-Proximity sensors → Docking alignment
-
-
-Vision cameras → Object classification
+e. Vision cameras → Object classification
 
 
 In AMRs:
