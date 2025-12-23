@@ -169,25 +169,25 @@ Types of Integration:
 
 1. On-Board Conveyor AMR
 
-Conveyor mounted on robot
+a. Conveyor mounted on robot
 
-Used in warehouses & hospitals
+b. Used in warehouses & hospitals
 
 
 2. Fixed Conveyor + AMR Interface
 
-AMR docks to conveyor station
+a. AMR docks to conveyor station
 
-Material transferred automatically
+b. Material transferred automatically
 
 
 3. Conveyor + Robotic Arm + AMR
 
-Conveyor feeds robot arm
+a. Conveyor feeds robot arm
 
-Arm places object on AMR
+b. Arm places object on AMR
 
-Fully autonomous cell
+c. Fully autonomous cell
 
 
 
@@ -206,7 +206,7 @@ Techniques Used:
 
 5. Magnetic strips
 
-parameter : Tolerance typically: ±5 mm
+parameter : Tolerance typically: ± 5 mm
 
 
 8. Safety & Standards
@@ -239,6 +239,7 @@ ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-e
 
 
 10. Applications in Industry
+
 
 11. Ther is a 2 aspects in the application parameter
 
