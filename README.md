@@ -247,9 +247,9 @@ ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-e
 1. We can apply or implement the conveyor belt in the assembly line robotic arm in the manufacturing and production plants.
 
 
-2. another one is , some of them is apllied in the autonomous mobile robot and mobile related robots to convey or move the parts which is loaded or kept on it.
+2. Another one is , some of them is apllied in the autonomous mobile robot and mobile related robots to convey or move the parts which is loaded or kept on it.
 
-these are the another examples of this application paramter regarding above mentioned perspectives
+These are the another examples of this application paramter regarding above mentioned perspectives
 Smart warehouses (Amazon, Flipkart)
 
 1. Automotive assembly lines
