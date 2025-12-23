@@ -144,7 +144,7 @@ Industrial PLCs (Siemens, Allen-Bradley)
 PLC ladder logic
 
 
-Example Control Logic:
+a. Example Control Logic:
 
 
 1. AMR reaches docking station
@@ -160,7 +160,6 @@ Example Control Logic:
 
 
 5. Conveyor stops → AMR departs
-
 
 
 6. Conveyor Belt Integration with AMRs
