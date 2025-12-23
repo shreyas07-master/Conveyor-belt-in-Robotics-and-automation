@@ -5,7 +5,8 @@ Design and Development of Conveyor Belt Systems in Robotics & Automation
 With Special Emphasis on Autonomous Mobile Robots (AMRs)
 1. Introduction
 
-Conveyor belt systems are a core material-handling technology in the robotics and automation industry. Traditionally fixed, conveyors are now increasingly integrated with Autonomous Mobile Robots (AMRs) to create flexible, scalable, and intelligent intralogistics systems used in warehouses, factories, hospitals, and fulfillment centers.
+Conveyor belt systems are a core material-handling technology in the robotics and automation industry. 
+Traditionally fixed, conveyors are now increasingly integrated with Autonomous Mobile Robots (AMRs) to create flexible, scalable, and intelligent intralogistics systems used in warehouses, factories, hospitals, and fulfillment centers.
 
 In AMR-based automation, conveyor belts act as:
 
@@ -14,6 +15,7 @@ A. Load transfer mechanisms
 B. Sorting and buffering units
 
 C. Mobile material handling platforms
+
 
 
 2. Role of Conveyor Belts in AMR Systems
@@ -35,7 +37,9 @@ Key Functions:
 Example:
 Amazon Robotics uses AMRs with integrated roller conveyors to move totes between stations without human intervention.
 
+
 3. Design Considerations for Conveyor Belts in AMRs
+
 3.1 Mechanical Design
    
 a) Belt Type Selection
