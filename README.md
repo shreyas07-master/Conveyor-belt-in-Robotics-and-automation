@@ -79,7 +79,7 @@ Torque requirement
 
 3. Noise & heat dissipation
 
-📌 Common Drivers:  Motor driver commonly used in the IOT, robotics and electrnocs.
+Common Drivers:  Motor driver commonly used in the IOT, robotics and electrnocs.
 
 Industrial motor drives
 
@@ -94,11 +94,10 @@ Mild steel (high load)
 Anti-static belts (electronics handling)
 
 4. Sensor Integration in Conveyor-AMR Systems
-5. 
+
 Sensors make the conveyor intelligent and autonomous.
 
 Common Sensors:
-
 
 IR / Photoelectric sensors → Object detection
 
@@ -134,38 +133,38 @@ Industrial PLCs (Siemens, Allen-Bradley)
 5.2 Software Stack
 
 
-ROS / ROS2 (autonomous mobile robots)
+1. ROS / ROS2 (autonomous mobile robots)
 
 
-MoveIt (robot arm + conveyor sync)
+2. MoveIt (robot arm + conveyor sync)
 
 
 PLC ladder logic
 
 
-
 Example Control Logic:
 
 
-AMR reaches docking station
+1. AMR reaches docking station
 
 
-Proximity sensor confirms alignment
+2. Proximity sensor confirms alignment
 
 
-Conveyor motor activates
+3. Conveyor motor activates
 
 
-Load transferred
+4. Load transferred
 
 
-Conveyor stops → AMR departs
+5. Conveyor stops → AMR departs
 
 
 
 6. Conveyor Belt Integration with AMRs
 
 Types of Integration:
+
 1. On-Board Conveyor AMR
 
 Conveyor mounted on robot
@@ -195,41 +194,41 @@ Fully autonomous cell
 Accurate conveyor operation depends on precise AMR positioning for tracking its exact position.
 Techniques Used:
 
-QR markers/ QRcodes
+1. QR markers/ QRcodes
 
-AprilTags
+2. AprilTags
 
-LiDAR-based localization
+3. LiDAR-based localization
 
-Vision-based alignment
+4. Vision-based alignment
 
-Magnetic strips
+5. Magnetic strips
 
-Tolerance typically: ±5 mm
+parameter : Tolerance typically: ±5 mm
 
 
 8. Safety & Standards
 
-Safety Features:
+1. Safety Features:
 
-Emergency stop
+2. Emergency stop
 
-Overload protection
+3. Overload protection
 
-Belt slip detection
+4. Belt slip detection
 
-Speed limiting
+5. Speed limiting
 
-Human presence detection
+6. Human presence detection
 
 
 Standards:
 
-ISO 3691 (AMR safety)
+1. ISO 3691 (AMR safety)
 
-ISO 10218 (robot safety)
+2. ISO 10218 (robot safety)
 
-IEC 60204 (electrical safety)
+3. IEC 60204 (electrical safety)
 
 
 9. Challenges in Conveyor-AMR Development
