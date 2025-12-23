@@ -123,6 +123,7 @@ In AMRs:
 Sensors synchronize conveyor motion with AMR navigation and docking logic.
 
 5. Control System Architecture
+
 5.1 Embedded Controllers
 
 
@@ -241,9 +242,9 @@ Standards:
 ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-efficiency motorsAlignment errorsVision + sensor fusionLoad variationAdaptive speed controlScalabilityModular design
 
 
-11. Applications in Industry
+10. Applications in Industry
 
-12. Ther is a 2 aspects in the application parameter
+11. Ther is a 2 aspects in the application parameter
 
   
 1. We can apply or implement the conveyor belt in the assembly line robotic arm in the manufacturing and production plants.
@@ -254,26 +255,26 @@ ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-e
 these are the another examples of this application paramter regarding above mentioned perspectives
 Smart warehouses (Amazon, Flipkart)
 
-Automotive assembly lines
+1. Automotive assembly lines
 
-Electronics manufacturing
+2. Electronics manufacturing
 
-Hospital medicine delivery
+3. Hospital medicine delivery
 
-Airport baggage handling
+4. Airport baggage handling
 
-Smart factories (Industry 4.0)
+5. Smart factories (Industry 4.0)
 
 
 11. Future Trends
 
 
-AI-based load prediction
+1. AI-based load prediction
 
-Vision-guided conveyors
+2. Vision-guided conveyors
 
-Self-healing conveyor systems
+3. Self-healing conveyor systems
 
-Digital twins (simulation in ROS/Gazebo)
+4. Digital twins (simulation in ROS/Gazebo)
 
-Swarm AMRs with shared conveyors.
+5. Swarm AMRs with shared conveyors.
