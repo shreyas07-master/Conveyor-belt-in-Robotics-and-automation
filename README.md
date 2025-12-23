@@ -21,15 +21,15 @@ In modern automation, conveyor belts are no longer standalone systems. They are 
 
 Key Functions:
 
-Automatic loading/unloading of goods
+1. Automatic loading/unloading of goods
 
-Inter-AMR material transfer
+2. Inter-AMR material transfer
 
-Integration with robotic arms (pick & place)
+3. Integration with robotic arms (pick & place)
 
-Docking with fixed conveyors or shelves
+4. Docking with fixed conveyors or shelves
 
-Continuous flow material handling
+5. Continuous flow material handling
 
 Example:
 Amazon Robotics uses AMRs with integrated roller conveyors to move totes between stations without human intervention.
@@ -49,7 +49,7 @@ Payload (kg)
 
 Dynamic load during acceleration/deceleration
 
-Safety factor (1.5–2×)
+Safety factor
 
 c) Size & Form Factor
 
@@ -60,23 +60,24 @@ Low center of gravity
 Modular design for maintenance
 
 3.2 Drive System Design
+
 Motors Used:
 
-DC Gear Motors
+1. DC Gear Motors
 
-BLDC Motors (preferred)
+2. BLDC Motors (preferred)
 
-Stepper Motors (for precision)
+3. Stepper Motors (for precision)
 
 Motor Selection Parameters:
 
 Torque requirement
 
-Speed (m/s)
+1. Speed (m/s)
 
-Power efficiency
+2. Power efficiency
 
-Noise & heat dissipation
+3. Noise & heat dissipation
 
 📌 Common Drivers:  Motor driver commonly used in the IOT, robotics and electrnocs.
 
