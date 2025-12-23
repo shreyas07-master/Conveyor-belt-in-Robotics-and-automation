@@ -215,17 +215,17 @@ parameter : Tolerance typically: ±5 mm
 
 8. Safety & Standards
 
-1. Safety Features:
+a. Safety Features:
 
-2. Emergency stop
+b. Emergency stop
 
-3. Overload protection
+c. Overload protection
 
-4. Belt slip detection
+d. Belt slip detection
 
-5. Speed limiting
+e. Speed limiting
 
-6. Human presence detection
+f. Human presence detection
 
 
 Standards:
@@ -239,7 +239,7 @@ Standards:
 
 9. Challenges in Conveyor-AMR Development
 
-ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-efficiency motorsAlignment errorsVision + sensor fusionLoad variationAdaptive speed controlScalabilityModular design
+ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-efficiency motorsAlignment errorsVision + sensor fusionLoad variationAdaptive speed control Scalability, Modular design
 
 
 10. Applications in Industry
