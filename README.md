@@ -9,11 +9,12 @@ Conveyor belt systems are a core material-handling technology in the robotics an
 
 In AMR-based automation, conveyor belts act as:
 
-Load transfer mechanisms
+A. Load transfer mechanisms
 
-Sorting and buffering units
+B. Sorting and buffering units
 
-Mobile material handling platforms
+C. Mobile material handling platforms
+
 
 2. Role of Conveyor Belts in AMR Systems
 
