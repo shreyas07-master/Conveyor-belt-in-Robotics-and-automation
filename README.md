@@ -46,8 +46,9 @@ Amazon Robotics uses robots with integrated roller conveyors to move totes betwe
 a) Belt Type Selection
 
 Type	Application
-Flat Belt	Lightweight packages, cartons
-Roller Conveyor	Pallets, boxes
+a. Flat Belt	Lightweight packages
+
+b. Roller Conveyor	Pallets, boxes
 Timing Belt	Precise positioning
 Modular Belt	Heavy loads, food/pharma
 
@@ -124,13 +125,13 @@ Sensors synchronize conveyor motion with AMR navigation and docking logic.
 5.1 Embedded Controllers
 
 
-Arduino / STM32 (prototyping)
+a. Arduino / STM32 (prototyping)
 
 
-ESP32 (IoT + wireless with wifi/bluetooth)
+b. ESP32 (IoT + wireless with wifi/bluetooth)
 
 
-Industrial PLC
+c. Industrial PLC
 
 
 
@@ -168,6 +169,7 @@ a. Example Control Logic:
 6. Conveyor Belt Integration with AMRs
 
 
+
 Types of Integration:
 
 1. On-Board Conveyor AMR
@@ -197,6 +199,7 @@ c. Fully autonomous cell
 7. Navigation & Docking Accuracy
    
 Accurate conveyor operation depends on precise AMR positioning for tracking its exact position.
+
 
 Techniques Used:
 
@@ -245,7 +248,9 @@ Standards:
 
 2. Another one is , some of them is apllied in the autonomous mobile robot and mobile related robots to convey or move the parts which is loaded or kept on it.
 
+
 These are the another examples of this application paramter regarding above mentioned perspectives
+
 
 Smart warehouses (Amazon, Flipkart)
 
