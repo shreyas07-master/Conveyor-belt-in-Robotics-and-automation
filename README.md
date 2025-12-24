@@ -280,5 +280,12 @@ Smart warehouses (Amazon, Flipkart)
 5. Swarm AMRs with shared conveyors.
 
 
+
+
+
+
+
+ 
+
 some of the people thinking about the jealous of copying thier work , 
 but they in the dream, just a dream.
