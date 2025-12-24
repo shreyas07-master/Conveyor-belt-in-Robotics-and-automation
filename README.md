@@ -6,6 +6,7 @@ With Special Emphasis on Autonomous Mobile Robots (AMRs)
 1. Introduction
 
 Conveyor belt systems are a core material-handling technology in the robotics and automation industry. 
+
 Traditionally fixed, conveyors are now increasingly integrated with Autonomous Mobile Robots (AMRs) to create flexible, scalable, and intelligent intralogistics systems used in warehouses, factories, hospitals, and fulfillment centers.
 
 In AMR-based automation, conveyor belts act as:
@@ -35,7 +36,7 @@ Key Functions:
 5. Continuous flow material handling
 
 Example:
-Amazon Robotics uses AMRs with integrated roller conveyors to move totes between stations without human intervention.
+Amazon Robotics uses robots with integrated roller conveyors to move totes between stations without human intervention.
 
 
 3. Design Considerations for Conveyor Belts in AMRs
@@ -43,6 +44,7 @@ Amazon Robotics uses AMRs with integrated roller conveyors to move totes between
 3.1 Mechanical Design
    
 a) Belt Type Selection
+
 Type	Application
 Flat Belt	Lightweight packages, cartons
 Roller Conveyor	Pallets, boxes
@@ -52,17 +54,12 @@ Modular Belt	Heavy loads, food/pharma
 b) Load Capacity
 Payload (kg)
 
-Dynamic load during acceleration/deceleration
-
-Safety factor
-
 c) Size & Form Factor
 
-Compact footprint (AMR space constraint)
+Compact footprint
 
 Low center of gravity
 
-Modular design for maintenance
 
 3.2 Drive System Design
 
@@ -74,9 +71,10 @@ Motors Used:
 
 3. Stepper Motors (for precision)
 
+
 Motor Selection Parameters:
 
-Torque requirement
+A.Torque requirement
 
 1. Speed (m/s)
 
@@ -84,19 +82,22 @@ Torque requirement
 
 3. Noise & heat dissipation
 
+
 Common Drivers:  Motor driver commonly used in the IOT, robotics and electrnocs.
+
 
 Industrial motor drives
 
 3.3 Structural & Material Design
 
-Aluminum extrusions (lightweight)
+1. Aluminum extrusions (lightweight)
 
-Mild steel (high load)
+2. Mild steel (high load)
 
-3D-printed rollers (prototyping)
+3. 3D-printed rollers (prototyping)
 
-Anti-static belts (electronics handling)
+4. Anti-static belts (electronics handling)
+
 
 4. Sensor Integration in Conveyor-AMR Systems
 
@@ -126,10 +127,11 @@ Sensors synchronize conveyor motion with AMR navigation and docking logic.
 Arduino / STM32 (prototyping)
 
 
-ESP32 (IoT + wireless)
+ESP32 (IoT + wireless with wifi/bluetooth)
 
 
-Industrial PLCs (Siemens, Allen-Bradley)
+Industrial PLC
+
 
 
 5.2 Software Stack
@@ -139,6 +141,7 @@ Industrial PLCs (Siemens, Allen-Bradley)
 
 
 2. MoveIt (robot arm + conveyor sync)
+
 
 
 PLC ladder logic
@@ -163,6 +166,7 @@ a. Example Control Logic:
 
 
 6. Conveyor Belt Integration with AMRs
+
 
 Types of Integration:
 
@@ -193,17 +197,16 @@ c. Fully autonomous cell
 7. Navigation & Docking Accuracy
    
 Accurate conveyor operation depends on precise AMR positioning for tracking its exact position.
+
 Techniques Used:
 
 1. QR markers/ QRcodes
 
-2. AprilTags
+2. LiDAR-based localization
 
-3. LiDAR-based localization
+3. Vision-based alignment
 
-4. Vision-based alignment
-
-5. Magnetic strips
+4. Magnetic strips
 
 parameter : Tolerance typically: ± 5 mm
 
@@ -220,8 +223,6 @@ d. Belt slip detection
 
 e. Speed limiting
 
-f. Human presence detection
-
 
 Standards:
 
@@ -231,10 +232,6 @@ Standards:
 
 3. IEC 60204 (electrical safety)
 
-
-9. Challenges in Conveyor-AMR Development
-
-ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-efficiency motorsAlignment errorsVision + sensor fusionLoad variationAdaptive speed control Scalability, Modular design
 
 
 10. Applications in Industry
@@ -249,6 +246,7 @@ ChallengeSolutionWeight limitationLightweight materialsBattery consumptionHigh-e
 2. Another one is , some of them is apllied in the autonomous mobile robot and mobile related robots to convey or move the parts which is loaded or kept on it.
 
 These are the another examples of this application paramter regarding above mentioned perspectives
+
 Smart warehouses (Amazon, Flipkart)
 
 1. Automotive assembly lines
@@ -260,6 +258,7 @@ Smart warehouses (Amazon, Flipkart)
 4. Airport baggage handling
 
 5. Smart factories (Industry 4.0)
+
 
 
 11. Future Trends
