@@ -286,6 +286,5 @@ Smart warehouses (Amazon, Flipkart)
 
 
  
-
-some of the people thinking about the jealous of copying thier work , 
-but they in the dream, just a dream.
+Beating the people on the same field....
+alag hi maja hota hai bhai...!
