@@ -3,7 +3,13 @@ Design and development of the conveyor belt in the robotics and automation indus
 
 Design and Development of Conveyor Belt Systems in Robotics & Automation
 With Special Emphasis on Autonomous Mobile Robots (AMRs)
+
 1. Introduction
+
+
+<img width="825" height="398" alt="image" src="https://github.com/user-attachments/assets/ca220745-fd4a-434b-88d7-b2d4bc92fe23" />
+
+
 
 Conveyor belt systems are a core material-handling technology in the robotics and automation industry. 
 
@@ -17,11 +23,12 @@ B. Sorting and buffering units
 
 C. Mobile material handling platforms
 
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/8fa5c7d0-5c72-42f4-87cd-fc7da239e14f" />
 
 
 2. Role of Conveyor Belts in AMR Systems
 
-In modern automation, conveyor belts are no longer standalone systems. They are embedded subsystems within AMRs or interfaced dynamically with them.
+- In modern automation, conveyor belts are no longer standalone systems. They are embedded subsystems within AMRs or interfaced dynamically with them.
 
 Key Functions:
 
@@ -36,6 +43,7 @@ Key Functions:
 5. Continuous flow material handling
 
 Example:
+
 Amazon Robotics uses robots with integrated roller conveyors to move totes between stations without human intervention.
 
 
@@ -46,6 +54,7 @@ Amazon Robotics uses robots with integrated roller conveyors to move totes betwe
 a) Belt Type Selection
 
 Type	Application
+
 a. Flat Belt	Lightweight packages
 
 b. Roller Conveyor	Pallets, boxes
@@ -53,13 +62,14 @@ Timing Belt	Precise positioning
 Modular Belt	Heavy loads, food/pharma
 
 b) Load Capacity
+
 Payload (kg)
 
 c) Size & Form Factor
 
-Compact footprint
+a. Compact footprint
 
-Low center of gravity
+b. Low center of gravity
 
 
 3.2 Drive System Design
@@ -137,7 +147,6 @@ c. Industrial PLC
 
 5.2 Software Stack
 
-
 1. ROS / ROS2 (autonomous mobile robots)
 
 
@@ -145,7 +154,7 @@ c. Industrial PLC
 
 
 
-PLC ladder logic
+5.3 PLC ladder logic
 
 
 a. Example Control Logic:
@@ -170,7 +179,7 @@ a. Example Control Logic:
 
 
 
-Types of Integration:
+5.4 Types of Integration:
 
 1. On-Board Conveyor AMR
 
@@ -239,6 +248,8 @@ Standards:
 
 10. Applications in Industry
 
+<img width="696" height="520" alt="image" src="https://github.com/user-attachments/assets/3c1d5037-06a8-46e6-b7eb-7abb4d799fc9" />
+
 
 11. Ther is a 2 aspects in the application parameter
 
@@ -278,14 +289,6 @@ Smart warehouses (Amazon, Flipkart)
 4. Digital twins (simulation in ROS/Gazebo)
 
 5. Swarm AMRs with shared conveyors.
-
-
-
-
-
-
-
-
 
 
 
