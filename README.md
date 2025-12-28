@@ -298,5 +298,5 @@ Smart warehouses (Amazon, Flipkart)
 
 
  
-Beating the people on the same field....
-alag hi maja hota hai bhai...!
+𝐁𝐞𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐩𝐞𝐨𝐩𝐥𝐞 𝐨𝐧 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐟𝐢𝐞𝐥𝐝....
+𝐚𝐥𝐚𝐠 𝐡𝐢 𝐦𝐚𝐣𝐚 𝐡𝐨𝐭𝐚 𝐡𝐚𝐢 𝐛𝐡𝐚𝐢...!
